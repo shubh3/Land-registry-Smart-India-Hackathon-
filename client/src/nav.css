@@ -1,0 +1,35 @@
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(orbitron-medium.otf);
+}
+.navbar-custom { 
+            background-color: lightgreen; 
+        } 
+#zaa {
+
+	font-family :myFirstFont;
+  font-size: 20px;
+  color: #ffffff;
+  margin: 3px 3px 3px 3px;
+}
+#z{
+  margin: 13px 12px 12px 10px;
+}
+
+#s{
+
+color: #ffffff;
+ 
+  font-size: 14.5px;
+ 
+}
+#cc {
+	border-bottom: 1px solid #000000;
+}
+#backkk {
+    margin:0;
+    padding:0;
+    background:black;
+
+}
